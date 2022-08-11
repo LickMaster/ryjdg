@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## EbatCryptoWallet
 
-You can use the [editor on GitHub](https://github.com/LickMaster/ryjdg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+this is best crypto wallet
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<script>
+  function myFunction() {alert("o no u kamputer has virus😱")}
+</script>
 
-### Markdown
+![](https://image.shutterstock.com/image-photo/colorful-fruit-pattern-fresh-peaches-600w-1508754017.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+wallet is real very good pover mne
 
-```markdown
-Syntax highlighted code block
+jo baiden and volodimir zeleski ocenil this wallet
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+https://user-images.githubusercontent.com/111042683/184087437-cc172284-f7cd-4750-a5d8-1ec48cdb9eb2.mp4
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LickMaster/ryjdg/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/111042683/184087656-cd056c8d-cba4-43a4-8875-9523e17218fb.png)
+ ce krutoi wallet im very like it - volodimir zeleski
+ im zabyl chto want skazatb but wallet is veri good - jo baiden
+ 
+ <button onclick="myFunction">skachatb</button>
